@@ -113,7 +113,7 @@ const experiences = [
     company_name: "Chubb Business Services",
     icon: chubb,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Jun 2022",
+    date: "Jan 2021 - Jun 2021",
     points: [
       "Automated the entire business process that had impacted 100+ customers.",
       "Developed 20+ data visualisation graphs based on the inputs.",
@@ -125,7 +125,7 @@ const experiences = [
     company_name: "Zuora India",
     icon: zuora,
     iconBg: "#383E56",
-    date: "July 2021 - Present",
+    date: "July 2021 - February 2023",
     points: [
       "Revamped the integration of Zuora with other third party gateways for improved customer experience.",
       "Built APIs for various open payment methods within 4 months of joining.",
