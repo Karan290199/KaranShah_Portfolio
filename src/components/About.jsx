@@ -32,7 +32,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a passionate about software development and I am looking forward to
+        I am passionate about software development and I am looking forward to
         work on new projects in the near future. I would like to be a valuable
         asset to the company where i could provide my time and efforts in the
         most optimal manner. In my spare time, I enjoy reading books, listening to music.
